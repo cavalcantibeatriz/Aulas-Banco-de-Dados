@@ -50,4 +50,4 @@ SELECT * FROM Filme WHERE genero = 'suspense';
 DESC Filme;
 -- limpar os dados da tabela; 
 truncate table Filme;
-
+SELECT*FROM Filme;
